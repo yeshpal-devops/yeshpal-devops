@@ -53,7 +53,7 @@ I’m a **DevSecOps Engineer** with ~3 years of professional experience designin
 
 ---
 
-## ⭐ Pinned Projects (examples — see repo list below)
+## ⭐ Projects
 - `devsecops-playbook` — DevSecOps best-practices, checklists & runbooks  
 - `terraform-azure-modules` — Reusable Terraform modules (AKS, networking, IAM)  
 - `ci-cd-templates` — GitHub Actions & Azure pipeline templates with security gates  
