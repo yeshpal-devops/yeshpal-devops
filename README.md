@@ -1,59 +1,78 @@
 <h1 align="center">Hi 👋, I'm Yesh Pal</h1>
-<h3 align="center">DevOps Engineer | Azure & AWS | CI/CD | Kubernetes | Terraform | Cloud Security</h3>
+<h3 align="center">Senior DevSecOps Engineer • Azure & AWS • CI/CD • Kubernetes • Terraform • Cloud Security</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeshpal-devops&label=Profile%20views&color=0e75b6&style=flat" alt="yeshpal-devops" />
+  <a href="https://github.com/yeshpal-devops">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/yeshpal-devops?label=follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/yeshpal-devops/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:yeshpal2727@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-yeshpal2727%40gmail.com-lightgrey?logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
+## 🔎 About Me
+I’m a **DevSecOps Engineer** with ~3 years of professional experience designing, automating, and securing cloud-native infrastructure on **Azure & AWS**. I build resilient CI/CD pipelines, implement Infrastructure-as-Code (Terraform/ARM), secure containerized workloads (Docker/Kubernetes), and embed security checks into developer workflows.
 
-- 🚀 **DevOps & Cloud Engineer** with **3 years of hands-on experience** in building, automating, and securing cloud infrastructures on **Azure & AWS**.  
-- 🔧 Skilled in **CI/CD (Azure DevOps, GitHub Actions, Jenkins)**, **Infrastructure as Code (Terraform, PowerShell, Azure CLI)**, and **Kubernetes (AKS/EKS)**.  
-- 📊 Experienced in monitoring & observability with **Prometheus, Grafana, Azure Monitor, AWS CloudWatch**.  
-- 🔒 Strong knowledge of **cloud security, IT compliance, and cost optimization**.  
-- 🎓 Microsoft Certified in **Azure Fundamentals, Administrator, Security Engineer, and DevOps Engineer Expert**.  
-- 📫 Reach me at: **yeshpal2727@gmail.com**  
+**Core strengths:** CI/CD (Azure DevOps, GitHub Actions, Jenkins), Terraform, AKS/EKS, IaC security (tfsec, tflint), container scanning, monitoring (Prometheus/Grafana), and cloud cost & compliance.
+
+📫 **Contact:** yeshpal2727@gmail.com • Chandigarh, India
 
 ---
 
-### 🛠️ Tech Stack  
-
-- ☁️ **Cloud Platforms:** `Azure`, `AWS`  
-- ⚙️ **CI/CD:** `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Bamboo`  
-- 🐳 **Containers & Orchestration:** `Docker`, `Kubernetes (AKS/EKS)`  
-- 📐 **Infrastructure as Code (IaC):** `Terraform`, `ARM Templates`, `PowerShell`, `Azure CLI`, `Ansible`  
-- 🔒 **Security & Compliance:** `Azure RBAC`, `IAM`, `TFSec`, `TruffleHog`, `CloudTrail`  
-- 📊 **Monitoring & Logging:** `Prometheus`, `Grafana`, `Azure Monitor`, `AWS CloudWatch`  
-- 💻 **Scripting & Automation:** `YAML`, `PowerShell`, `Bash`, `Python`  
-- 🧠 **Other Tools:** `Git`, `Bitbucket`, `SonarQube`, `ServiceNow (ITSM)`  
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeshpal-devops&show_icons=true&locale=en&theme=tokyonight" alt="yeshpal-devops" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeshpal-devops&theme=tokyonight" alt="yeshpal-devops" />
-</p>
+## 🛠️ Tech & Tools
+**Cloud:** Azure, AWS  
+**IaC & Automation:** Terraform, ARM, Azure CLI, PowerShell, Ansible  
+**CI/CD:** GitHub Actions, Azure DevOps Pipelines, Jenkins  
+**Containers & Orchestration:** Docker, Kubernetes (AKS/EKS)  
+**Security:** Azure RBAC/IAM, tfsec, TruffleHog, tflint, secret scanning, vulnerability scanning (Trivy)  
+**Monitoring:** Prometheus, Grafana, CloudWatch, Azure Monitor  
+**Languages & Scripts:** YAML, Bash, PowerShell, Python  
+**Other:** Git, SonarQube, ServiceNow (ITSM)
 
 ---
 
-### 🏆 Certifications  
+## 🏆 Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)  
+- Microsoft Certified: DevOps Engineer Expert (AZ-400)
 
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**  
-- Microsoft Certified: **Azure Administrator Associate (AZ-104)**  
-- Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**  
-- Microsoft Certified: **DevOps Engineer Expert (AZ-400)**  
+---
+
+## 🔭 What I build here
+- Secure, reusable **Terraform modules** for Azure & AWS  
+- Production-ready **CI/CD pipelines** with integrated security gates  
+- Kubernetes hardening guides and sample manifests (PodSecurity, NetworkPolicies)  
+- DevSecOps playbooks: secrets detection, SCA, and incident response automation  
+- Demo projects for vulnerability scanning and automated remediation
 
 ---
 
-### 📫 Let's Connect  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yeshpal-devops)  
-- 💻 [GitHub](https://github.com/yeshpal-devops)  
-- 📧 Email: **yeshpal2727@gmail.com**  
+## ⭐ Pinned Projects (examples — see repo list below)
+- `devsecops-playbook` — DevSecOps best-practices, checklists & runbooks  
+- `terraform-azure-modules` — Reusable Terraform modules (AKS, networking, IAM)  
+- `ci-cd-templates` — GitHub Actions & Azure pipeline templates with security gates  
+- `k8s-hardening-guides` — Kubernetes hardening scripts & policies  
+- `container-security` — Dockerfile best-practices + Trivy CI integration
 
 ---
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshpal-devops&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshpal-devops&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/yeshpal-devops/  
+- Email: yeshpal2727@gmail.com  
+- GitHub: https://github.com/yeshpal-devops
+
+---
+
+<sub>Designed for hiring managers and teams seeking a DevSecOps engineer who implements security-first automation in cloud environments.</sub>
