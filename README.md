@@ -31,7 +31,7 @@
 ```yaml
 Name     : Yesh Pal
 Role     : DevOps Engineer
-Company  : Valenta (Feb 2025 – Present)
+Company  : Valenta IT (Feb 2025 – Present)
 Previous : Tech Mahindra (Aug 2022 – Feb 2025)
 Location : Gurugram, India
 Experience: 3.8+ Years
@@ -164,12 +164,10 @@ Education: MCA @ Chandigarh University (2025–2027) | BCA @ IEC University (202
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeshpal-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshpal-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeshpal-devops&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yeshpal-devops&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/yeshpal-devops)
 
 <br/>
 
