@@ -20,7 +20,6 @@
 ![Currently](https://img.shields.io/badge/💼_Currently-Valenta_IT-0078D4?style=flat-square)
 ![Location](https://img.shields.io/badge/📍_Location-Gurugram,_India-green?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-success?style=flat-square)
-![Notice Period](https://img.shields.io/badge/⏱️_Notice-15_Days_or_Less-orange?style=flat-square)
 
 </div>
 
@@ -167,11 +166,13 @@ Education: MCA @ Chandigarh University (2025–2027) | BCA @ IEC University (202
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeshpal-devops&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/yeshpal-devops)
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
 
-[![Yesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeshpal-devops&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yeshpal-devops)
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=yeshpal-devops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
