@@ -159,20 +159,28 @@ Education: MCA @ Chandigarh University (2025–2027) | BCA @ IEC University (202
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skill Proficiency
 
 <div align="center">
 
+<!-- Reliable: WakaTime-style skill progress bars using shields -->
+![Azure](https://img.shields.io/badge/Azure-████████████████░░░░-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+&nbsp;`Expert`
 
-<br/>
+![Terraform](https://img.shields.io/badge/Terraform-███████████████░░░░░-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+&nbsp;`Advanced`
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Kubernetes](https://img.shields.io/badge/Kubernetes-██████████████░░░░░░-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+&nbsp;`Advanced`
 
-<br/>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-█████████████░░░░░░░-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+&nbsp;`Advanced`
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yeshpal-devops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+![DevSecOps](https://img.shields.io/badge/DevSecOps-████████████░░░░░░░░-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+&nbsp;`Proficient`
+
+![AWS](https://img.shields.io/badge/AWS-███████████░░░░░░░░░-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+&nbsp;`Proficient`
 
 </div>
 
