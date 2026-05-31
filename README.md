@@ -30,7 +30,7 @@
 ```yaml
 Name     : Yesh Pal
 Role     : DevOps Engineer
-Company  : Valenta IT (Feb 2025 – Present)
+Company  : Valenta  (Feb 2025 – Present)
 Previous : Tech Mahindra (Aug 2022 – Feb 2025)
 Location : Gurugram, India
 Experience: 3.8+ Years
