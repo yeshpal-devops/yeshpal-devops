@@ -109,7 +109,7 @@ Education: MCA @ Chandigarh University (2025–2027) | BCA @ IEC University (202
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Valenta IT — DevOps Engineer (Feb 2025 – Present)</b></summary>
+<summary><b>🏢 Valenta  — DevOps Engineer (Feb 2025 – Present)</b></summary>
 
 <br/>
 
