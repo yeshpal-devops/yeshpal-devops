@@ -117,6 +117,56 @@ $ ./impact.sh --last-role
 
 ---
 
+## 🔮 ON MY RADAR — TRENDING IN THE DEVOPS WORLD
+
+<div align="center">
+
+**GitOps**
+<br/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white"/>
+
+**Platform Engineering**
+<br/>
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=0F2027"/>
+<img src="https://img.shields.io/badge/Crossplane-blueviolet?style=for-the-badge&logo=crossplane&logoColor=white"/>
+
+**Service Mesh & Networking**
+<br/>
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=linkerd&logoColor=0F2027"/>
+
+**Security / Policy-as-Code**
+<br/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=0F2027"/>
+<img src="https://img.shields.io/badge/OPA_/_Gatekeeper-7B42BC?style=for-the-badge&logo=opengmailbolt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kyverno-6047FF?style=for-the-badge&logoColor=white"/>
+
+**Autoscaling & Cost**
+<br/>
+<img src="https://img.shields.io/badge/Karpenter-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/KEDA-1E90FF?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+**Observability**
+<br/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+**Packaging & Provisioning**
+<br/>
+<img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
+
+```diff
++ Actively upskilling on these — GitOps (Argo CD) and OpenShift are next on the hands-on list.
+```
+
+</div>
+
+---
+
 ## 💾 EXPERIENCE.LOG
 
 <details open>
