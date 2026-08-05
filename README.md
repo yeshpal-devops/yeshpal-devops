@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yesh-pal/"><img src="https://img.shields.io/badge/LINKEDIN-connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0F2027&labelColor=0F2027"/></a>
-<a href="mailto:yeshpal2727@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hire%20me-00F0FF?style=for-the-badge&logo=gmail&logoColor=0F2027&labelColor=0F2027"/></a>
-<a href="https://github.com/yeshpal-devops"><img src="https://img.shields.io/badge/GITHUB-follow-00F0FF?style=for-the-badge&logo=github&logoColor=0F2027&labelColor=0F2027"/></a>
+<a href="https://www.linkedin.com/in/yesh-pal/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="mailto:yeshpal2727@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hire%20me-0F2027?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="https://github.com/yeshpal-devops"><img src="https://img.shields.io/badge/GITHUB-follow-0F2027?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0F2027"/></a>
 <img src="https://komarev.com/ghpvc/?username=yeshpal-devops&style=for-the-badge&color=00F0FF&labelColor=0F2027&label=VISITORS"/>
 
 <br/><br/>
@@ -69,10 +69,10 @@ $ ./impact.sh --last-role
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-00F0FF?style=for-the-badge&logo=microsoftazure&logoColor=0F2027&labelColor=0F2027"/>
-<img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-00F0FF?style=for-the-badge&logo=microsoftazure&logoColor=0F2027&labelColor=0F2027"/>
-<img src="https://img.shields.io/badge/AZ--400-DevOps_Expert_⭐-00F0FF?style=for-the-badge&logo=microsoftazure&logoColor=0F2027&labelColor=0F2027"/>
-<img src="https://img.shields.io/badge/AZ--500-Security_Engineer-00F0FF?style=for-the-badge&logo=microsoftazure&logoColor=0F2027&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0F2027?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0F2027?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/AZ--400-DevOps_Expert_⭐-0F2027?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/AZ--500-Security_Engineer-0F2027?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0F2027"/>
 
 </div>
 
@@ -104,14 +104,14 @@ $ ./impact.sh --last-role
 
 **Security & DevSecOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=sonarqube&theme=dark" height="55"/>
-<img src="https://img.shields.io/badge/Trivy-00AEE8?style=for-the-badge&logo=aqua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS_Defender-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 **Scripting & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=bash,powershell,python,git,linux&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=bash,powershell,py,git,linux&theme=dark" height="55"/>
 
 </div>
 
@@ -124,13 +124,13 @@ $ ./impact.sh --last-role
 **GitOps**
 <br/>
 <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logoColor=white"/>
 
 **Platform Engineering**
 <br/>
 <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=0F2027"/>
-<img src="https://img.shields.io/badge/Crossplane-blueviolet?style=for-the-badge&logo=crossplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crossplane-5E39D6?style=for-the-badge&logoColor=white"/>
 
 **Service Mesh & Networking**
 <br/>
@@ -140,7 +140,7 @@ $ ./impact.sh --last-role
 **Security / Policy-as-Code**
 <br/>
 <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=0F2027"/>
-<img src="https://img.shields.io/badge/OPA_/_Gatekeeper-7B42BC?style=for-the-badge&logo=opengmailbolt&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPA_%2F_Gatekeeper-7B42BC?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kyverno-6047FF?style=for-the-badge&logoColor=white"/>
 
 **Autoscaling & Cost**
@@ -251,8 +251,8 @@ $ ./impact.sh --last-role
 
 ### 📡 LET'S BUILD SOMETHING RELIABLE
 
-<a href="https://www.linkedin.com/in/yesh-pal/"><img src="https://img.shields.io/badge/LinkedIn-Message_me-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0F2027&labelColor=0F2027"/></a>
-<a href="mailto:yeshpal2727@gmail.com"><img src="https://img.shields.io/badge/Email-yeshpal2727@gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=0F2027&labelColor=0F2027"/></a>
+<a href="https://www.linkedin.com/in/yesh-pal/"><img src="https://img.shields.io/badge/LinkedIn-Message_me-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="mailto:yeshpal2727@gmail.com"><img src="https://img.shields.io/badge/Email-yeshpal2727@gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0F2027"/></a>
 
 <br/><br/>
 
