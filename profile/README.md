@@ -14,12 +14,17 @@ Modular Terraform implementation covering Azure networking, VMs, Bastion, Key Va
 
 Environment-based Azure infrastructure with reusable modules, remote-state design and Azure DevOps CI/CD.
 
-### 3. Kubernetes Learning Path
+### 3. DevOps Health API
+[Open repository →](https://github.com/yeshpal-devops/devops-health-api)
+
+Production-style mini DevOps project demonstrating Docker containerization, automated testing, GitHub Actions CI/CD, Trivy vulnerability scanning and health checks.
+
+### 4. Kubernetes Learning Path
 [Open repository →](https://github.com/yeshpal-devops/kubernetes-learning-path)
 
 Hands-on Kubernetes learning notes covering workloads, networking, storage, security and operations.
 
-### 4. Linux Automation Utilities
+### 5. Linux Automation Utilities
 [Server Performance Stats](https://github.com/yeshpal-devops/Server-Performance-Stats) · [Log Archive Tool](https://github.com/yeshpal-devops/Log-Archive-Tool)
 
 Small practical automation projects focused on Linux operations and scripting.
